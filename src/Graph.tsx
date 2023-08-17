@@ -59,7 +59,6 @@ class Graph extends Component<IProps, {}> {
         DataManipulator.generateRow(this.props.data),
       ] as unknown as TableData);
 
-      );
     }
   }
 }
